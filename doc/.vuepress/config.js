@@ -1,5 +1,5 @@
 module.exports = {
-  dest: 'vuepress',
+  dest: 'docs',
   base: '/',
   markdown: {
     toc: { includeLevel: [2, 3] }
