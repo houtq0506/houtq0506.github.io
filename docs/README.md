@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /avatar.png
+heroImage: /fide.jpg
 actionText: Let`s Go →
 actionLink: /guide/
 sidebarDepth: 2
